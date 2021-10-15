@@ -9,7 +9,8 @@ You may verify the tests yourself by running tests.py. Here, I have posted the r
 __________________________________________________
 Test 1 of 8
 
-Number of points: 500\n
+Number of points: 500
+
 Collision radius: 0.1
 
 
