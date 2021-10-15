@@ -109,3 +109,22 @@ Spatial Hashing : 0.0463s
 
 Double Looping : 6.9366s
 __________________________________________________
+
+__________________________________________________
+Test 8 of 8
+
+Number of points: 10000
+
+Collision radius: 0.01
+
+WARNING: This test will take a long time to run. Please be patient
+
+Success! Speed-up: 377.19x
+
+Spatial Hashing : 0.2927s
+
+Double Looping : 110.4216s
+__________________________________________________
+
+As you can see, for the final test, the speed up is as much as 377x! This is a big improvement.
+
